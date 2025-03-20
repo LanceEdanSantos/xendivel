@@ -1,5 +1,5 @@
 {
-    "name": "lanceedansantos/xendivel",
+    "name": "glennraya/xendivel",
     "description": "A Laravel package to easily integrate Xendit payment gateway. It supports credit and debit cards, and e-wallet payments and custom invoices, queued notifications, webhook listeners and more.",
     "keywords": ["laravel"],
     "license": "MIT",
